@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bachiri
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android
+- 👀 I’m interested in 📱
+- 🌱 I’m currently learning 📱
+- 💞️ I’m looking to collaborate on 📱
 - 📫 How to reach me bachiri.abderrahman@gmail.com
 
 <!---
